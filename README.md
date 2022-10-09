@@ -1,6 +1,6 @@
 0xMANFRE
 <hr/>
-<img align="left" height="184" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a0.svg">
+<img align="left" height="176" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a0.svg">
 <div>
   
   MTAM (male to alpha male) 💪  
