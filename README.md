@@ -15,7 +15,7 @@
 <hr/>
 
 160+ years of experience in your company's favourite programming language.  
-Vue, Nuxt, Nest, PocketBase, and web technologies enjoyer.   
+Vue, Nuxt, Nest, Docker, PocketBase, and web technologies enjoyer.   
 Reject SaaS platforms, embrace free and libre open source selfhosted software.
 <br/><br/><br/>
 
